@@ -2,7 +2,7 @@ import sys
 sys.path.append("D:\Projects\PyProjects\CFAC_V1\Config");
 
 configuration : dict = {
-    'toket'          : '1896616307:AAFKvI7rX3ZLRDVr6ePTyM3VnOP-DBYe66o',
+    'toket'          : '',
     'data_base_path' : 'D:\Projects\PyProjects\CFAC_V1\DataBase\client.db',
 };
 
